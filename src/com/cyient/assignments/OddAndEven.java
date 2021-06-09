@@ -5,6 +5,7 @@ public class OddAndEven {
 	public static void main(String[] args) {
 		
 		//1.Create a program to display odd and even results from 0 to 30. (using ,for loop,while)
+		//1.Create a program to display odd and even results from 0 to 30. (using ,for loop,while)
 			
 		int [] num = new int[50];
 		int i=0;
